@@ -20,3 +20,5 @@ The dataset is a collection of images of alphabets from the American Sign Langua
 # Result
 
 ![Screenshot (10)](https://user-images.githubusercontent.com/83747330/123040256-182bfa80-d411-11eb-8e80-4d5e9d2e7c89.png)
+
+Note: The presentation contains information about other projects I have worked on. You can find them on my profile.
